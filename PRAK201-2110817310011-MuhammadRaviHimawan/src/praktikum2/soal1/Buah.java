@@ -1,6 +1,4 @@
-
 package praktikum2.soal1;
-
 
 public class Buah {
     String nama_buah;
